@@ -1,6 +1,9 @@
 Dados do aluno
 
 -Primeiro Nome:
+- Sobrenome:
+-Idade:
+-Telefone:
 -Profissão:
 -Cidade:
 -O que faz nas horas vaga:
